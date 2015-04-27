@@ -1,0 +1,35 @@
+{
+  "name": "iso-react",
+  "version": "1.0.0",
+  "description": "Isomorphic React prototype",
+  "main": "index.js",
+  "dependencies": {
+    "d3": "^3.5.5",
+    "ejs": "^2.3.1",
+    "express": "^4.12.3",
+    "gulp": "^3.8.11",
+    "gulp-browserify": "^0.5.1",
+    "jest-cli": "^0.4.0",
+    "node-jsx": "^0.13.2",
+    "react": "^0.13.2",
+    "reactify": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrClapham/iso-react.git"
+  },
+  "keywords": [
+    "React",
+    "Isomorphic"
+  ],
+  "author": "Graham Clapham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrClapham/iso-react/issues"
+  },
+  "homepage": "https://github.com/mrClapham/iso-react"
+}
